@@ -1,5 +1,3 @@
 #!/usr/bin/python3
-__import__("os").write(1, "#pythoniscool\n".encode("UTF-8"))
-
-
+if 1: exec("write(1, b'#pythoniscool\\n')")
 
